@@ -9,6 +9,7 @@ env/
 ENV/
 env.bak/
 venv.bak/
+crawler/downloads/
 
 # Ignore package manager files (e.g., pip)
 *.egg-info/
